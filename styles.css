@@ -39,10 +39,12 @@ h1, h2, h3 {
 }
 
 .noticia {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 15px;
     margin-bottom: 15px;
     border: 2px solid lightgray;
+    margin: 20px auto;
 }
 
 .categoria {
