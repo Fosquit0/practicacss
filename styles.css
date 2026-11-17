@@ -1,0 +1,64 @@
+p {
+    font-size: 15px;
+    line-height: 1.4;
+    color: black;
+}
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+
+#cabecera {
+    background-color: #1e3a8a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#menu {
+    background-color: darkgray;
+    padding: 10px;
+    text-align: center;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+#noticias {
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+}
+
+.noticia {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 2px solid lightgray;
+}
+
+.categoria {
+    background-color: lightblue;
+    color: black;
+    padding: 3px 6px;
+    font-size: 12px;
+}
+
+.noticia h3 {
+    color: darkblue;
+    margin-top: 0;
+}
+
+.noticia a {
+    color: blue;
+}
+
+#pie {
+    background-color: rgb(253, 253, 253);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
